@@ -11,7 +11,7 @@ font-family: 'Poppins', sans-serif;
     display: flex;
     
     padding: 50px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     
 }
 .spiderman{
@@ -31,12 +31,14 @@ h3{
     background-image: linear-gradient(salmon, tomato);
     border: none;
     border-radius: 5px;
+    box-shadow: 2px 2px gray;
     
 
 }
 .hireme-btn a{
     text-decoration: none;
     color: white;
+
 }
 .top-image img{
     width: 450px;
@@ -56,19 +58,19 @@ h3{
 
 }
 .first{
-    border: 1px solid;
-    
-   width: 30%;
+    box-shadow: 10px 10px 10px 10px gray;
+     width: 30%;
+
    
 } 
      
 .second{
-    border: 1px solid;
+    box-shadow: 10px 10px 10px 10px gray;
     width: 30%;
 }
 
 .third{
-    border: 1px solid;
+    box-shadow: 10px 10px 10px 10px gray;
     width: 30%;
     
 }
@@ -80,4 +82,27 @@ h3{
 }
 .header{
     margin-bottom: 40px;
+}
+.experience{
+    color: salmon;
+    padding-left: 20px;
+    margin: 10px;
+}
+.details{
+    background-image: linear-gradient(salmon, tomato);
+    border: none;
+    padding: 10px 20px;
+    margin-top: 20px;
+    color: white;
+    box-shadow: 2px 2px 2px 2px gray;
+    border-radius: 3px;
+}
+.details:hover{
+    background-color: salmon;
+    
+}
+.footer{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 70px;
 }
