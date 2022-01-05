@@ -2,3 +2,51 @@
     margin: 0;
     padding: 0;
 }
+body{
+    font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif;
+
+}
+.parent-one{
+    display: flex;
+    
+    padding: 50px;
+    margin-bottom: 40px;
+    
+}
+.spiderman{
+    color: salmon;
+}
+h1{
+    font-size: 40px;
+}
+h3{
+    font-size: 20px;
+    
+    color: salmon;
+}
+.hireme-btn{
+    margin: 20px auto;
+    padding: 10px 30px;
+    background-image: linear-gradient(salmon, tomato);
+    border: none;
+    border-radius: 5px;
+    
+
+}
+.hireme-btn a{
+    text-decoration: none;
+    color: white;
+}
+.top-image img{
+    width: 450px;
+}
+.welcome{
+    margin: 20px;
+    padding: 20px;
+}
+.top-image{
+    margin: 0px 20px;
+    padding: 20px;
+}
+
