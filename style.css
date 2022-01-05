@@ -49,4 +49,35 @@ h3{
     margin: 0px 20px;
     padding: 20px;
 }
+.parent-two{
+    display: flex;
+    justify-content: space-around;
+   margin-right: 0 auto;
 
+}
+.first{
+    border: 1px solid;
+    
+   width: 30%;
+   
+} 
+     
+.second{
+    border: 1px solid;
+    width: 30%;
+}
+
+.third{
+    border: 1px solid;
+    width: 30%;
+    
+}
+.onehtml img{
+    width: 100%;
+}
+.paddingadd{
+    padding: 20px;
+}
+.header{
+    margin-bottom: 40px;
+}
